@@ -17,7 +17,7 @@ the employee is also kept.
 - extract the downloaded folder
 - import the project_monitoring.sql to the mysql database
 - copy the extracted folder to xampp registry
-- launch in browser
+- launch in browser  (http://localhost/project_monitoring)
 
 ---------------------------------------------------------------------------------------
 
