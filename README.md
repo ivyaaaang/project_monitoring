@@ -24,27 +24,27 @@ the employee is also kept.
 # Notes
 
 *to login as administrator
- -input the default account for administrator 
-  -username/ssn          = admin
-  -password/project code = admin
-  
- - an administrator can add new employee, department, projects and such
- - can view / check activity logs
+-input the default account for administrator 
+-username/ssn          = admin
+-password/project code = admin
+ 
+- an administrator can add new employee, department, projects and such
+- can view / check activity logs
  
  
 *to login as employee
-  -username/ssn          = 111223333
-  -password/project code = 2020001
+-username/ssn          = 111223333
+-password/project code = 2020001
   
-  -username/ssn          = 111223333
-  -password/project code = 2020002
+-username/ssn          = 111223333
+-password/project code = 2020002
   
-  -username/ssn          = 222334444
-  -password/project code = 2020002
+-username/ssn          = 222334444
+-password/project code = 2020002
   
-  -an admin can create employee's account by assigning them in a project
-  -once employees are login, a timestamp will be automatically log in the time_in fields and 
-  -an employee is required to sign out, so that the timestamp will be inputed in the time_out fields
+-an admin can create employee's account by assigning them in a project
+-once employees are login, a timestamp will be automatically log in the time_in fields and 
+-an employee is required to sign out, so that the timestamp will be inputed in the time_out fields
   
   
   
