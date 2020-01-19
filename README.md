@@ -23,7 +23,7 @@ the employee is also kept.
 
 # Notes
 
-*to login as administrator
+-to login as administrator
 -input the default account for administrator 
 -username/ssn          = admin
 -password/project code = admin
@@ -32,7 +32,7 @@ the employee is also kept.
 - can view / check activity logs
  
  
-*to login as employee
+-to login as employee
 -username/ssn          = 111223333
 -password/project code = 2020001
   
